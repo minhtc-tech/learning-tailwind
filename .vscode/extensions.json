@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ritwickdey.liveserver",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss"
+  ],
+  "unwantedRecommendations": ["formulahendry.auto-rename-tag"]
+}
